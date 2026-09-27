@@ -3,7 +3,7 @@
 A personal finance analytics web app. Track your expenses, set monthly budgets for each category, and use a dashboard to see where your money goes. The dashboard shows KPIs, trends, budget-vs-actual variance and auto-generated insights.
 
 **Live app:** https://budget-analyzer-jorge.netlify.app
-**Demo video:** _add your unlisted YouTube link here_
+**Demo video:** https://youtu.be/axVhp40muIc
 
 ![Dashboard](docs/dashboard.png)
 
